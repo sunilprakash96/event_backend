@@ -1,5 +1,5 @@
 # event_backend
 
 
-nodemon index
+To run: nodemon index
 
